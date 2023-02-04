@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T20:39:13.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7uo4SV09IE88iGoa7Sfa" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T21:13:11.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vJQ8QWZUfVtDMBG3VWY5" version="20.8.15" type="github">
   <diagram name="Page-1" id="oUNNQ1qMh4tGgLTOTxzl">
-    <mxGraphModel dx="952" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,18 +22,6 @@
         <mxCell id="EgybinkTdiLRkmSKWudw-8" value="last_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EgybinkTdiLRkmSKWudw-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="220" as="sourcePoint" />
-            <mxPoint x="330" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EgybinkTdiLRkmSKWudw-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="220" as="sourcePoint" />
-            <mxPoint x="330" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EgybinkTdiLRkmSKWudw-12" value="has a" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="115" width="80" height="80" as="geometry" />
         </mxCell>
@@ -45,12 +33,6 @@
         </mxCell>
         <mxCell id="EgybinkTdiLRkmSKWudw-14" value="paper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="120" width="120" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="EgybinkTdiLRkmSKWudw-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.008;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="260" as="sourcePoint" />
-            <mxPoint x="370" y="210" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="EgybinkTdiLRkmSKWudw-20" value="abstract" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="65" width="60" height="30" as="geometry" />
@@ -171,8 +153,146 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgybinkTdiLRkmSKWudw-71" value="interests" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="600" y="130" width="70" height="30" as="geometry" />
+        <mxCell id="EgybinkTdiLRkmSKWudw-71" value="reviewers" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="630" y="169" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-73" value="authors" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="590" y="115" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-74" value="&lt;u&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;contact_author&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="68" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-14" target="EgybinkTdiLRkmSKWudw-74">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="580" y="130" as="sourcePoint" />
+            <mxPoint x="660" y="130" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-77" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-14" target="EgybinkTdiLRkmSKWudw-73">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="550" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-90" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-14" target="EgybinkTdiLRkmSKWudw-71">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="560" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-92" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-71" target="EgybinkTdiLRkmSKWudw-94">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="590" y="230" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-93" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-94" target="EgybinkTdiLRkmSKWudw-95">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="600" y="300" as="sourcePoint" />
+            <mxPoint x="568" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-94" value="rates" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-95" value="categories" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-96" value="readability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="376" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-97" value="originality" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="376" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-98" value="relevance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-99" value="technical merit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="335" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-100" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-95" target="EgybinkTdiLRkmSKWudw-98">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="585" y="365" as="sourcePoint" />
+            <mxPoint x="665" y="365" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-104" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-95" target="EgybinkTdiLRkmSKWudw-96">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="535" y="345" as="sourcePoint" />
+            <mxPoint x="615" y="345" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-105" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-95" target="EgybinkTdiLRkmSKWudw-97">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="515" y="355" as="sourcePoint" />
+            <mxPoint x="595" y="355" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-106" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-95" target="EgybinkTdiLRkmSKWudw-99">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="575" y="325" as="sourcePoint" />
+            <mxPoint x="635" y="325" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-107" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="110" as="sourcePoint" />
+            <mxPoint x="180" y="110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-108" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="70" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-109" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-2" target="EgybinkTdiLRkmSKWudw-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="90" as="sourcePoint" />
+            <mxPoint x="250" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-110" value="comments" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-111" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-71" target="EgybinkTdiLRkmSKWudw-110">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="660" y="220" as="sourcePoint" />
+            <mxPoint x="740" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-114" value="review committee" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-115" value="feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-116" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-110" target="EgybinkTdiLRkmSKWudw-114">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="740" y="290" as="sourcePoint" />
+            <mxPoint x="820" y="290" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EgybinkTdiLRkmSKWudw-117" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EgybinkTdiLRkmSKWudw-110" target="EgybinkTdiLRkmSKWudw-115">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="760" y="260" as="sourcePoint" />
+            <mxPoint x="840" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
