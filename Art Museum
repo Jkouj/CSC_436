@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T15:33:29.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JcL7v-7RYVdOhDXBrzfu" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T15:33:45.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xmkMBpmfnFiqJHmujEBh" version="20.8.16" type="github">
   <diagram name="Page-1" id="hO6XnTdp9fIfcluIwC9m">
-    <mxGraphModel dx="952" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,7 +530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XULc_dPEYOfzN8528QJQ-77" value="My EER diagram is essentially centered around the Art Object entity.&lt;br&gt;The art object has a disjoint specialized relationship with its type and status with the museum.&lt;br&gt;It has a 1:1 relationship with both cases here. It can be either permanent or borrowed, but not both.&lt;br&gt;Its status has subclasses Borrowed and Permanent. If it is Borrowed, it has its own attributes,&lt;br&gt;as well as it has a relationship to the collection it was borrowed from, with its own respective attributes.&lt;br&gt;If it is permament, then the object is owned by the museum, and that has its own respective attributes.&lt;br&gt;On the other side of the disjoint specialization, the other subclasses are for the type of art object.&lt;br&gt;It is either a painting, a sculpture, or other.&amp;nbsp;&lt;br&gt;The art object has a 1:1 relationship with these, as the object can only be one of these categories.&lt;br&gt;Each entity here has its own respective attributes, but if the object is a sculpture, it can be of subclass statue.&lt;br&gt;The art object itself has its own respective attributes with a unique id &lt;u&gt;ID_num&lt;/u&gt;.&lt;br&gt;On the top side of art object, the object has a 1:1 relationship with its artist, and exhibition (these are separate entities).&lt;br&gt;The artist has its own respective attributes with a unique key of &lt;u&gt;name&lt;/u&gt;.&lt;br&gt;The exhibition has its own attributes as well as a unique key of &lt;u&gt;key_ID&lt;/u&gt;.&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="895" width="650" height="220" as="geometry" />
+          <mxGeometry x="15" y="880" width="650" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
