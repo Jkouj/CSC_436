@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T15:24:41.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rJvMyZxKVLVDL4XLjcMS" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T15:33:29.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JcL7v-7RYVdOhDXBrzfu" version="20.8.16" type="github">
   <diagram name="Page-1" id="hO6XnTdp9fIfcluIwC9m">
     <mxGraphModel dx="952" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
         <mxCell id="XULc_dPEYOfzN8528QJQ-73" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="713" y="908" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XULc_dPEYOfzN8528QJQ-75" value="Sculpture" style="html=1;" vertex="1" parent="1">
+        <mxCell id="XULc_dPEYOfzN8528QJQ-75" value="Statue" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="663" y="955" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XULc_dPEYOfzN8528QJQ-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="klZBylbcuCOxUIfTq2iU-45" target="klZBylbcuCOxUIfTq2iU-6">
@@ -528,6 +528,9 @@
             <mxPoint x="710" y="60" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XULc_dPEYOfzN8528QJQ-77" value="My EER diagram is essentially centered around the Art Object entity.&lt;br&gt;The art object has a disjoint specialized relationship with its type and status with the museum.&lt;br&gt;It has a 1:1 relationship with both cases here. It can be either permanent or borrowed, but not both.&lt;br&gt;Its status has subclasses Borrowed and Permanent. If it is Borrowed, it has its own attributes,&lt;br&gt;as well as it has a relationship to the collection it was borrowed from, with its own respective attributes.&lt;br&gt;If it is permament, then the object is owned by the museum, and that has its own respective attributes.&lt;br&gt;On the other side of the disjoint specialization, the other subclasses are for the type of art object.&lt;br&gt;It is either a painting, a sculpture, or other.&amp;nbsp;&lt;br&gt;The art object has a 1:1 relationship with these, as the object can only be one of these categories.&lt;br&gt;Each entity here has its own respective attributes, but if the object is a sculpture, it can be of subclass statue.&lt;br&gt;The art object itself has its own respective attributes with a unique id &lt;u&gt;ID_num&lt;/u&gt;.&lt;br&gt;On the top side of art object, the object has a 1:1 relationship with its artist, and exhibition (these are separate entities).&lt;br&gt;The artist has its own respective attributes with a unique key of &lt;u&gt;name&lt;/u&gt;.&lt;br&gt;The exhibition has its own attributes as well as a unique key of &lt;u&gt;key_ID&lt;/u&gt;.&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="895" width="650" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
