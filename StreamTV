@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T02:29:11.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MiWXZDdhso9OWrIdCu86" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T02:31:47.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4dxZ4MlufBOAM6CAfUS3" version="20.8.18" type="github">
   <diagram name="Page-1" id="LR-cdIuMsNDs6QwBr28V">
-    <mxGraphModel dx="993" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,6 +64,21 @@
           <mxGeometry x="379" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PArMZx215AWNACouNAHv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PArMZx215AWNACouNAHv-20" target="PArMZx215AWNACouNAHv-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PArMZx215AWNACouNAHv-20" value="Customer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -147,8 +162,23 @@
         <mxCell id="PArMZx215AWNACouNAHv-50" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PArMZx215AWNACouNAHv-51" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="PArMZx215AWNACouNAHv-51" value="date_watched" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="254" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-54" value="renew_date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-55" value="email" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="389" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-56" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="259" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-57" value="date_added" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PArMZx215AWNACouNAHv-58" value="cc_num" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="274" y="500" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
