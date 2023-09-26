@@ -1,0 +1,930 @@
+sh001,101,2006-10-11,Pilot
+sh001,102,2006-10-18,The Aftermath
+sh001,103,2006-10-25,Blind Date
+sh001,104,2006-11-01,Jack the Writer
+sh001,105,2006-11-30,Jack Meets Dennis
+sh001,106,2007-02-15,The C Word
+sh001,107,2006-11-16,Jack-Tor
+sh001,108,2006-12-07,Tracy Does Conan
+sh001,109,2006-12-14,The Break-Up
+sh001,110,2007-01-04,The Baby Show
+sh001,111,2007-01-11,The Rural Juror
+sh001,112,2007-01-18,The Head and the Hair
+sh001,113,2007-02-01,Black Tie
+sh001,114,2007-02-08,Up All Night
+sh001,115,2007-02-22,Hard Ball (aka Negotiation)
+sh001,116,2007-03-01,The Source Awards
+sh001,117,2007-03-08,The Fighting Irish
+sh001,118,2007-04-05,Fireworks
+sh001,119,2007-04-12,Corporate Crush
+sh001,120,2007-04-19,Cleveland
+sh001,121,2007-04-26,Hiatus
+sh001,201,2007-10-04,Seinfeld Vision
+sh001,202,2007-10-11,Jack Gets in the Game
+sh001,203,2007-10-18,The Collection
+sh001,204,2007-10-25,Rosemary's Baby
+sh001,205,2007-11-08,Greenzo
+sh001,206,2007-11-15,Somebody to Love
+sh001,207,2007-11-29,Cougars
+sh001,208,2007-12-06,Secrets and Lies
+sh001,209,2007-12-13,Ludachristmas
+sh001,210,2008-01-10,Episode 210
+sh001,211,2008-04-10,MILF Island
+sh001,212,2008-04-17,Subway Hero
+sh001,213,2008-04-24,Succession
+sh001,214,2008-05-01,Sandwich Day
+sh001,215,2008-05-08,Cooter
+sh001,301,2008-10-30,Do-Over
+sh001,302,2008-11-06,Believe in the Stars
+sh001,303,2008-11-13,The One with the Cast of Night Court
+sh001,304,2008-11-20,Gavin Volure
+sh001,305,2008-12-04,Reunion
+sh001,306,2008-12-11,Christmas Special
+sh001,307,2009-01-08,Senor Macho Solo
+sh001,308,2009-01-15,Flu Shot
+sh001,309,2009-01-22,Retreat To Move Forward
+sh001,310,2009-02-05,Generalissimo
+sh001,311,2009-02-12,St. Valentine's Day
+sh001,312,2009-02-26,Larry King
+sh001,313,2009-03-05,Goodbye My Friend
+sh001,314,2009-03-12,The Funcooker
+sh001,315,2009-03-19,The Bubble
+sh001,316,2009-03-26,Apollo Apollo
+sh001,317,2009-04-09,Cutbacks
+sh001,318,2009-04-16,Jackie Jormp-Jomp
+sh001,319,2009-04-23,The Ones
+sh001,320,2009-04-30,The Natural Order
+sh001,321,2009-05-07,Mama Mia
+sh001,322,2009-05-14,Kidney Now!
+sh001,401,2009-10-15,Season 4
+sh001,402,2009-10-22,Into the Crevasse
+sh001,403,2009-10-29,Stone Mountain
+sh001,404,2009-11-05,Audition Day
+sh001,405,2009-11-12,The Problem Solvers
+sh001,406,2009-11-19,Sun Tea
+sh001,407,2009-12-03,Dealbreakers Talk Show 0001
+sh001,408,2009-12-10,Secret Santa
+sh001,409,2010-01-14,Klaus And Greta
+sh001,410,2010-01-14,Black Light Attack!
+sh001,411,2010-01-21,Winter Madness
+sh001,412,2010-02-04,Verna
+sh001,413,2010-02-11,Anna Howard Shaw Day
+sh001,414,2010-03-11,Future Husband
+sh001,415,2010-03-18,Don Geiss - America and Hope
+sh001,416,2010-03-25,Floyd
+sh001,417,2010-04-22,Lee Marvin vs. Derek Jeter
+sh001,418,2010-04-22,Khonani
+sh001,419,2010-04-29,Argus
+sh001,420,2010-05-06,The Moms
+sh001,421,2010-05-13,Emmanuel Goes to Dinosaur Land
+sh001,422,2010-05-20,I Do Do
+sh001,501,2010-09-23,The Fabian Strategy
+sh001,502,2010-09-30,When It Rains It Pours
+sh001,503,2010-10-07,Let's Stay Together
+sh001,504,2010-10-14,Live Show
+sh001,505,2010-10-21,Reaganing
+sh001,506,2010-11-04,Gentleman's Intermission
+sh001,507,2010-11-11,Brooklyn Without Limits
+sh001,508,2010-11-18,College
+sh001,509,2010-12-02,Chain Reaction Of Mental Anguish
+sh001,510,2010-12-09,Christmas Attack Zone
+sh001,511,2011-01-20,Mrs. Donaghy
+sh001,512,2011-01-27,Operation Righteous Cowboy Lightning
+sh001,513,2011-02-03,Sorpresa!
+sh001,514,2011-02-10,Double-Edged Sword
+sh001,515,2011-02-17,It's Never Too Late for Now
+sh001,516,2011-02-24,TGS Hates Women
+sh001,517,2011-03-17,Queen of Jordan
+sh001,518,2011-03-24,Plan B
+sh001,519,2011-04-14,I Heart Connecticut
+sh001,520,2011-04-21,100 (1)
+sh001,521,2011-04-21,100 (2)
+sh001,522,2011-04-28,Everything Sunny All the Time Always
+sh001,523,2011-05-05,Respawn
+sh001,601,2012-01-12,Dance Like Nobody's Watching
+sh001,602,2012-01-19,Idiots Are People Two!
+sh001,603,2012-01-26,Idiots Are People Three!
+sh001,604,2012-01-26,The Ballad of Kenneth Parcell
+sh001,605,2012-02-02,Today You Are a Man
+sh001,606,2012-02-09,Hey Baby What's Wrong (1)
+sh001,607,2012-02-09,Hey Baby What's Wrong (2)
+sh001,608,2012-02-16,The Tuxedo Begins
+sh001,609,2012-02-23,Leap Day
+sh001,610,2012-03-01,Alexis Goodlooking and the Case of the Missing Whisky
+sh001,611,2012-03-08,Standards and Practices
+sh001,612,2012-03-15,St. Patrick's Day
+sh001,613,2012-03-22,Grandmentor
+sh001,614,2012-03-22,Kidnapped By Danger
+sh001,615,2012-03-29,The Shower Principle
+sh001,616,2012-04-05,Nothing Left To Lose
+sh001,617,2012-04-12,Meet the Woggels
+sh001,618,2012-04-19,Murphy Brown Lied To Us
+sh001,619,2012-04-26,Live From Studio 6H
+sh001,620,2012-05-03,Queen of Jordan 2: The Mystery Of The Phantom Pooper
+sh001,621,2012-05-10,The Return of Avery Jessup
+sh001,622,2012-05-17,What Will Happen to the Gang Next Year?
+sh001,701,2012-10-04,The Beginning of the End
+sh001,702,2012-10-11,Governor Dunston
+sh001,703,2012-10-18,Stride of Pride
+sh001,704,2012-10-25,Unwindulax
+sh001,705,2012-10-31,There's No I in America
+sh001,706,2012-11-15,Aunt Phatso vs. Jack Donaghy
+sh001,707,2012-11-29,Mazel Tov Dummies!
+sh001,708,2012-12-06,My Whole Life Is Thunder
+sh001,709,2013-01-17,Florida
+sh001,710,2013-01-10,Game Over
+sh001,711,2013-01-24,A Goon's Deed in a Weary World
+sh001,712,2013-01-31,Hogcock!
+sh001,713,2013-01-31,Last Lunch
+sh002,101,2003-11-02,Pilot
+sh002,102,2003-11-09,Top Banana
+sh002,103,2003-11-16,Bringing Up Buster
+sh002,104,2003-11-23,Key Decisions
+sh002,105,2003-11-30,Charity Drive
+sh002,106,2003-12-07,Visiting Ours
+sh002,107,2003-12-14,In God We Trust
+sh002,108,2003-12-21,My Mother The Car
+sh002,109,2004-01-04,Storming the Castle
+sh002,110,2004-01-11,Pier Pressure
+sh002,111,2004-01-25,Public Relations
+sh002,112,2004-02-08,Marta Complex
+sh002,113,2004-02-15,Beef Consomme
+sh002,114,2004-03-07,Shock and Aww
+sh002,115,2004-03-14,Staff Infection
+sh002,116,2004-03-17,Altar Egos (1)
+sh002,117,2004-03-21,Justice Is Blind (2)
+sh002,118,2004-03-28,Missing Kitty
+sh002,119,2004-04-04,Best Man for the Gob
+sh002,120,2004-04-11,Whistler's Mother
+sh002,121,2004-04-25,Not Without My Daughter
+sh002,122,2004-06-06,Let 'Em Eat Cake (1)
+sh002,201,2004-11-07,The One Where Michael Leaves (2)
+sh002,202,2004-11-14,The One Where They Build a House
+sh002,203,2004-11-21,Amigos
+sh002,204,2004-12-05,Good Grief!
+sh002,205,2004-12-12,Sad Sack
+sh002,206,2004-12-19,Afternoon Delight
+sh002,207,2005-01-16,Switch Hitter
+sh002,208,2005-01-23,Queen for a Day
+sh002,209,2005-01-30,Burning Love
+sh002,210,2005-02-13,Ready Aim Marry Me
+sh002,211,2005-03-06,Out on a Limb (1)
+sh002,212,2005-03-06,My Hand to God (2)
+sh002,213,2005-03-13,Motherboy XXX
+sh002,214,2005-03-20,The Immaculate Election
+sh002,215,2005-03-27,The Sword of Destiny
+sh002,216,2005-04-03,Meet the Veals
+sh002,217,2005-04-10,Spring Breakout
+sh002,218,2005-04-17,Righteous Brothers
+sh002,301,2005-09-19,The Cabin Show
+sh002,302,2005-09-26,For British Eyes Only
+sh002,303,2005-10-03,Forget Me Now
+sh002,304,2005-11-07,Notapusy
+sh002,305,2005-11-07,Mr. F
+sh002,306,2005-12-05,The Ocean Walker
+sh002,307,2005-12-12,Prison Break-In
+sh002,308,2005-12-19,Making a Stand
+sh002,309,2006-01-02,S.O.B.s (Save Our Bluths)
+sh002,310,2006-02-10,Fakin' It
+sh002,311,2006-02-10,Family Ties
+sh002,312,2006-02-10,Exit Strategy
+sh002,313,2006-02-10,Development Arrested
+sh002,401,2013-05-26,Flight of the Phoenix
+sh002,402,2013-05-26,Borderline Personalities
+sh002,403,2013-05-26,Indian Takers
+sh002,404,2013-05-26,The B. Team
+sh002,405,2013-05-26,A New Start
+sh002,406,2013-05-26,Double Crossers
+sh002,407,2013-05-26,Colony Collapse
+sh002,408,2013-05-26,Red Hairing
+sh002,409,2013-05-26,Smashed
+sh002,410,2013-05-26,Queen B.
+sh002,411,2013-05-26,A New Attitude
+sh002,412,2013-05-26,Senoritis
+sh002,413,2013-05-26,It Gets Better
+sh002,414,2013-05-26,Off the Hook
+sh002,415,2013-05-26,Blockheads
+sh003,101,2009-09-17,Pilot
+sh003,102,2009-09-24,Spanish 101
+sh003,103,2009-10-01,Introduction to Film
+sh003,104,2009-10-08,Social Psychology
+sh003,105,2009-10-15,Advanced Criminal Law
+sh003,106,2009-10-22,Football Feminism and You
+sh003,107,2009-10-29,Introduction to Statistics
+sh003,108,2009-11-05,Home Economics
+sh003,109,2009-11-12,Debate 109
+sh003,110,2009-11-19,Environmental Science
+sh003,111,2009-12-03,The Politics of Human Sexuality
+sh003,112,2009-12-10,Comparative Religion
+sh003,113,2010-01-14,Investigative Journalism
+sh003,114,2010-01-21,Interpretive Dance
+sh003,115,2010-02-04,Romantic Expressionism
+sh003,116,2010-02-11,Communication Studies
+sh003,117,2010-03-04,Physical Education
+sh003,118,2010-03-11,Basic Genealogy
+sh003,119,2010-03-18,Beginner Pottery
+sh003,120,2010-03-25,The Science of Illusion
+sh003,121,2010-04-22,Contemporary American Poultry
+sh003,122,2010-04-29,The Art of Discourse
+sh003,123,2010-05-06,Modern Warfare
+sh003,124,2010-05-13,English as a Second Language
+sh003,125,2010-05-20,Pascal's Triangle Revisited
+sh003,201,2010-09-23,Anthropology 101
+sh003,202,2010-09-30,Accounting for Lawyers
+sh003,203,2010-10-07,The Psychology of Letting Go
+sh003,204,2010-10-14,Basic Rocket Science
+sh003,205,2010-10-21,Messianic Myths and Ancient Peoples
+sh003,206,2010-10-28,Epidemiology
+sh003,207,2010-11-04,Aerodynamics of Gender
+sh003,208,2010-11-11,Cooperative Calligraphy
+sh003,209,2010-11-18,Conspiracy Theories and Interior Design
+sh003,210,2010-12-02,Mixology Certification
+sh003,211,2010-12-09,Abed's Uncontrollable Christmas
+sh003,212,2011-01-20,Asian Population Studies
+sh003,213,2011-01-27,Celebrity Pharmacology
+sh003,214,2011-02-03,Advanced Dungeons & Dragons
+sh003,215,2011-02-10,Early 21st Century Romanticism
+sh003,216,2011-02-17,Intermediate Documentary Filmmaking
+sh003,217,2011-02-24,Intro to Political Science
+sh003,218,2011-03-17,Custody Law and Eastern European Diplomacy
+sh003,219,2011-03-24,Critical Film Studies
+sh003,220,2011-04-14,Competitive Wine Tasting
+sh003,221,2011-04-21,Paradigms of Human Memory
+sh003,222,2011-04-28,Applied Anthropology and Culinary Arts
+sh003,223,2011-05-05,A Fistful of Paintballs (1)
+sh003,224,2011-05-12,For a Few Paintballs More (2)
+sh003,301,2011-09-22,Biology 101
+sh003,302,2011-09-29,Geography of Global Conflict
+sh003,303,2011-10-06,Competitive Ecology
+sh003,304,2011-10-13,Remedial Chaos Theory
+sh003,305,2011-10-27,Horror Fiction in Seven Spooky Steps
+sh003,306,2011-11-03,Advanced Gay
+sh003,307,2011-11-10,Studies In Modern Movement
+sh003,308,2011-11-17,Documentary Filmmaking: Redux
+sh003,309,2011-12-01,Foosball and Nocturnal Vigilantism
+sh003,310,2011-12-08,Regional Holiday Music
+sh003,311,2012-03-15,Urban Matrimony and the Sandwich Arts
+sh003,312,2012-03-22,Contemporary Impressionists
+sh003,313,2012-03-29,Digital Exploration Of Interior Design (1)
+sh003,314,2012-04-05,Pillows and Blankets (2)
+sh003,315,2012-04-12,Origins of Vampire Mythology
+sh003,316,2012-04-19,Virtual Systems Analysis
+sh003,317,2012-04-26,Basic Lupine Urology
+sh003,318,2012-05-03,Course Listing Unavailable
+sh003,319,2012-05-10,Curriculum Unavailable
+sh003,320,2012-05-17,Digital Estate Planning
+sh003,321,2012-05-17,The First Chang Dynasty
+sh003,322,2012-05-17,Introduction To Finality
+sh003,401,2013-02-07,History 101
+sh003,402,2013-02-14,Paranormal Parentage
+sh003,403,2013-02-21,Conventions of Space and Time
+sh003,404,2013-02-28,Alternative History of the German Invasion
+sh003,405,2013-03-07,Cooperative Escapism In Familial Relations
+sh003,406,2013-03-14,Advanced Documentary Filmmaking
+sh003,407,2013-03-21,Economics of Marine Biology
+sh003,408,2013-04-04,Herstory of Dance
+sh003,409,2013-04-11,Intro To Felt Surrogacy
+sh003,410,2013-04-18,Intro To Knots
+sh003,411,2013-04-25,Basic Human Anatomy
+sh003,412,2013-05-02,Heroic Origins
+sh003,413,2013-05-09,Advanced Introduction to Finality
+sh004,101,2006-10-03,Pilot
+sh004,102,2006-10-10,Eyes Wide Open
+sh004,103,2006-10-17,Wind Sprints
+sh004,104,2006-10-24,Who's Your Daddy
+sh004,105,2006-10-30,Git 'Er Done
+sh004,106,2006-11-07,El Accidente
+sh004,107,2006-11-28,Crossing the Line
+sh004,108,2006-11-14,Homecoming
+sh004,109,2006-12-05,Full Hearts
+sh004,110,2006-12-12,It's Different for Girls
+sh004,111,2007-01-03,Nevermind
+sh004,112,2007-01-10,What to Do While You're Waiting
+sh004,113,2007-01-24,Little Girl I Wanna Marry You
+sh004,114,2007-01-31,Upping the Ante
+sh004,115,2007-02-07,Blinders
+sh004,116,2007-02-14,Black Eyes & Broken Hearts
+sh004,117,2007-02-21,I Think We Should Have Sex
+sh004,118,2007-02-28,Extended Families
+sh004,119,2007-03-21,Ch-Ch-Ch-Ch-Changes
+sh004,120,2007-03-28,Mud Bowl
+sh004,121,2007-04-04,Best Laid Plans
+sh004,122,2007-04-11,State
+sh004,201,2007-10-05,Last Days of Summer
+sh004,202,2007-10-12,Bad Ideas
+sh004,203,2007-10-19,Are You Ready for Friday Night?
+sh004,204,2007-10-26,Backfire
+sh004,205,2007-11-02,Let's Get It On
+sh004,206,2007-11-09,How Did I Get Here?
+sh004,207,2007-11-16,Pantherama!
+sh004,208,2007-11-30,Seeing Other People
+sh004,209,2007-12-07,The Confession
+sh004,210,2008-01-04,There Goes the Neighborhood
+sh004,211,2008-01-11,Jumping the Gun
+sh004,212,2008-01-18,Who Do You Think You Are?
+sh004,213,2008-01-25,Humble Pie
+sh004,214,2008-02-01,Leave No One Behind
+sh004,215,2008-02-08,May the Best Man Win
+sh004,301,2008-10-01,I Knew You When
+sh004,302,2008-10-08,Tami Knows Best
+sh004,303,2008-10-15,How the Other Half Lives
+sh004,304,2008-10-22,Hello Goodbye
+sh004,305,2008-10-29,Every Rose Has Its Thorn
+sh004,306,2008-11-05,It Ain't Easy Being J.D. McCoy
+sh004,307,2008-11-12,Keeping Up Appearances
+sh004,308,2008-11-19,New York New York
+sh004,309,2008-12-03,Game of the Week
+sh004,310,2008-12-10,The Giving Tree
+sh004,311,2008-12-17,A Hard Rain's Gonna Fall
+sh004,312,2009-01-07,Underdogs
+sh004,313,2009-01-14,Tomorrow Blues
+sh004,401,2009-10-28,East of Dillon
+sh004,402,2009-11-04,After the Fall
+sh004,403,2009-11-11,In the Skin of a Lion
+sh004,404,2009-11-18,A Sort of Homecoming
+sh004,405,2009-12-02,The Son
+sh004,406,2009-12-09,Stay
+sh004,407,2009-12-16,In the Bag
+sh004,408,2010-01-06,The Toilet Bowl
+sh004,409,2010-01-13,The Lights of Carrol Park
+sh004,410,2010-01-20,I Can't
+sh004,411,2010-01-27,Injury List
+sh004,412,2010-02-03,Laboring
+sh004,413,2010-02-10,Thanksgiving
+sh004,501,2010-10-27,Expectations
+sh004,502,2010-11-03,On the Outside Looking In
+sh004,503,2010-11-10,The Right Hand of the Father
+sh004,504,2010-11-17,Keep Looking
+sh004,505,2010-12-01,Kingdom
+sh004,506,2010-12-08,Swerve
+sh004,507,2010-12-15,Perfect Record
+sh004,508,2011-01-05,Fracture
+sh004,509,2011-01-12,Gut Check
+sh004,510,2011-01-19,Don't Go
+sh004,511,2011-01-26,The March
+sh004,512,2011-02-02,Texas Whatever (aka Small Town)
+sh004,513,2011-02-09,Always
+sh005,101,2005-09-19,Pilot
+sh005,102,2005-09-26,Purple Giraffe
+sh005,103,2005-10-03,Sweet Taste of Liberty
+sh005,104,2005-10-10,Return of the Shirt
+sh005,105,2005-10-17,Okay Awesome
+sh005,106,2005-10-24,Slutty Pumpkin
+sh005,107,2005-11-07,Matchmaker
+sh005,108,2005-11-14,The Duel
+sh005,109,2005-11-21,Belly Full of Turkey
+sh005,110,2005-11-28,The Pineapple Incident
+sh005,111,2005-12-19,The Limo
+sh005,112,2006-01-09,The Wedding
+sh005,113,2006-01-23,Drumroll Please
+sh005,114,2006-02-06,Zip Zip Zip
+sh005,115,2006-02-27,Game Night
+sh005,116,2006-03-06,Cupcake
+sh005,117,2006-03-20,Life Among the Gorillas
+sh005,118,2006-04-10,Nothing Good Happens After 2 A.M.
+sh005,119,2006-04-24,Mary the Paralegal
+sh005,120,2006-05-01,Best Prom Ever
+sh005,121,2006-05-08,Milk
+sh005,122,2006-05-15,Come On
+sh005,201,2006-09-18,Where Were We?
+sh005,202,2006-09-25,The Scorpion and the Toad
+sh005,203,2006-10-02,Brunch
+sh005,204,2006-10-09,Ted Mosby: Architect
+sh005,205,2006-10-16,World's Greatest Couple
+sh005,206,2006-10-23,Aldrin Justice
+sh005,207,2006-11-06,Swarley
+sh005,208,2006-11-13,Atlantic City
+sh005,209,2006-11-20,Slap Bet
+sh005,210,2006-11-27,Single Stamina
+sh005,211,2006-12-11,How Lily Stole Christmas
+sh005,212,2007-01-08,First Time in New York
+sh005,213,2007-01-22,Columns
+sh005,214,2007-02-05,Monday Night Football
+sh005,215,2007-02-12,Lucky Penny
+sh005,216,2007-02-19,Stuff
+sh005,217,2007-02-26,Arrivederci Fiero
+sh005,218,2007-03-19,Moving Day
+sh005,219,2007-04-09,Bachelor Party
+sh005,220,2007-04-30,Showdown
+sh005,221,2007-05-07,Something Borrowed
+sh005,222,2007-05-14,Something Blue
+sh005,301,2007-09-24,Wait for It
+sh005,302,2007-10-01,We're Not From Here
+sh005,303,2007-10-08,Third Wheel
+sh005,304,2007-10-15,Little Boys
+sh005,305,2007-10-22,How I Met Everyone Else
+sh005,306,2007-10-29,I'm Not That Guy
+sh005,307,2007-11-05,Dowisetrepla
+sh005,308,2007-11-12,Spoiler Alert
+sh005,309,2007-11-19,Slapsgiving
+sh005,310,2007-11-26,The Yips
+sh005,311,2007-12-10,The Platinum Rule
+sh005,312,2008-03-17,No Tomorrow
+sh005,313,2008-03-24,Ten Sessions
+sh005,314,2008-03-31,The Bracket
+sh005,315,2008-04-14,The Chain of Screaming
+sh005,316,2008-04-21,Sandcastles in the Sand
+sh005,317,2008-04-28,The Goat
+sh005,318,2008-05-05,Rebound Bro
+sh005,319,2008-05-12,Everything Must Go
+sh005,320,2008-05-19,Miracles
+sh005,401,2008-09-22,Do I Know You?
+sh005,402,2008-09-29,The Best Burger in New York
+sh005,403,2008-10-06,I Heart NJ
+sh005,404,2008-10-13,Intervention
+sh005,405,2008-10-20,Shelter Island
+sh005,406,2008-11-03,Happily Ever After
+sh005,407,2008-11-10,Not a Father's Day
+sh005,408,2008-11-17,Woooo!
+sh005,409,2008-11-24,The Naked Man
+sh005,410,2008-12-08,The Fight
+sh005,411,2008-12-15,Little Minnesota
+sh005,412,2009-01-12,Benefits
+sh005,413,2009-01-19,Three Days of Snow
+sh005,414,2009-02-02,The Possimpible
+sh005,415,2009-03-02,The Stinsons
+sh005,416,2009-03-09,Sorry Bro
+sh005,417,2009-03-16,The Front Porch
+sh005,418,2009-03-23,Old King Clancy
+sh005,419,2009-03-30,Murtaugh
+sh005,420,2009-04-13,Mosbius Designs
+sh005,421,2009-04-27,The Three Days Rule
+sh005,422,2009-05-04,Right Place Right Time
+sh005,423,2009-05-11,As Fast as She Can
+sh005,424,2009-05-18,The Leap
+sh005,501,2009-09-21,Definitions
+sh005,502,2009-09-28,Double Date
+sh005,503,2009-10-05,Robin 101
+sh005,504,2009-10-12,The Sexless Innkeeper
+sh005,505,2009-10-19,Duel Citizenship
+sh005,506,2009-11-02,Bagpipes
+sh005,507,2009-11-09,The Rough Patch
+sh005,508,2009-11-16,The Playbook
+sh005,509,2009-11-23,Slapsgiving 2: Revenge of the Slap
+sh005,510,2009-12-07,The Window
+sh005,511,2009-12-14,Last Cigarette Ever
+sh005,512,2010-01-11,Girls vs. Suits
+sh005,513,2010-01-18,Jenkins
+sh005,514,2010-02-01,Perfect Week
+sh005,515,2010-02-08,Rabbit or Duck
+sh005,516,2010-03-01,Hooked
+sh005,517,2010-03-08,Of Course
+sh005,518,2010-03-22,Say Cheese
+sh005,519,2010-04-12,Zoo or False
+sh005,520,2010-04-19,Home Wreckers
+sh005,521,2010-05-03,Twin Beds
+sh005,522,2010-05-10,Robots vs. Wrestlers
+sh005,523,2010-05-17,The Wedding Bride
+sh005,524,2010-05-24,Doppelgangers
+sh005,601,2010-09-20,Big Days
+sh005,602,2010-09-27,Cleaning House
+sh005,603,2010-10-04,Unfinished
+sh005,604,2010-10-11,Subway Wars
+sh005,605,2010-10-18,Architect of Destruction
+sh005,606,2010-10-25,Baby Talk
+sh005,607,2010-11-01,Canning Randy
+sh005,608,2010-11-08,Natural History
+sh005,609,2010-11-15,Glitter
+sh005,610,2010-11-22,Blitzgiving
+sh005,611,2010-12-06,The Mermaid Theory
+sh005,612,2010-12-13,False Positive
+sh005,613,2011-01-03,Bad News
+sh005,614,2011-01-17,Last Words
+sh005,615,2011-02-07,Oh Honey
+sh005,616,2011-02-14,Desperation Day
+sh005,617,2011-02-21,Garbage Island
+sh005,618,2011-02-28,A Change of Heart
+sh005,619,2011-03-21,Legendaddy
+sh005,620,2011-04-11,The Exploding Meatball Sub
+sh005,621,2011-04-18,Hopeless
+sh005,622,2011-05-02,The Perfect Cocktail
+sh005,623,2011-05-09,Landmarks
+sh005,624,2011-05-16,Challenge Accepted
+sh005,701,2011-09-19,The Best Man
+sh005,702,2011-09-19,The Naked Truth
+sh005,703,2011-09-26,Ducky Tie
+sh005,704,2011-10-03,The Stinson Missile Crisis
+sh005,705,2011-10-10,Field Trip
+sh005,706,2011-10-17,Mystery vs. History
+sh005,707,2011-10-24,Noretta
+sh005,708,2011-10-31,The Slutty Pumpkin Returns
+sh005,709,2011-11-07,Disaster Averted
+sh005,710,2011-11-14,Tick Tick Tick...
+sh005,711,2011-11-21,The Rebound Girl
+sh005,712,2011-12-05,Symphony of Illumination
+sh005,713,2012-01-02,Tailgate
+sh005,714,2012-01-16,46 Minutes
+sh005,715,2012-02-06,The Burning Beekeeper
+sh005,716,2012-02-13,The Drunk Train
+sh005,717,2012-02-20,No Pressure
+sh005,718,2012-02-27,Karma
+sh005,719,2012-03-19,The Broath
+sh005,720,2012-04-09,Trilogy Time
+sh005,721,2012-04-16,Now We're Even
+sh005,722,2012-04-30,Good Crazy
+sh005,723,2012-05-14,The Magician's Code (1)
+sh005,724,2012-05-14,The Magician's Code (2)
+sh005,801,2012-09-24,Farhampton
+sh005,802,2012-10-01,The Pre-Nup
+sh005,803,2012-10-08,Nannies
+sh005,804,2012-10-15,Who Wants to Be a Godparent?
+sh005,805,2012-11-05,The Autumn of Break-Ups
+sh005,806,2012-11-12,Splitsville
+sh005,807,2012-11-19,The Stamp Tramp
+sh005,808,2012-11-26,Twelve Horny Women
+sh005,809,2012-12-03,Lobster Crawl
+sh005,810,2012-12-10,The Over-Correction
+sh005,811,2012-12-17,The Final Page (1)
+sh005,812,2012-12-17,The Final Page (2)
+sh005,813,2013-01-14,Band or DJ?
+sh005,814,2013-01-21,Ring Up!
+sh005,815,2013-02-04,P.S. I Love You
+sh005,816,2013-02-11,Bad Crazy
+sh005,817,2013-02-18,The Ashtray
+sh005,818,2013-02-25,Weekend at Barney's
+sh005,819,2013-03-18,The Fortress
+sh005,820,2013-03-25,The Time Travelers
+sh005,821,2013-04-15,Romeward Bound
+sh005,822,2013-04-29,The Bro Mitzvah
+sh005,823,2013-05-06,Something Old
+sh005,824,2013-05-13,Something New
+sh005,901,2013-09-23,The Locket
+sh005,902,2013-09-23,Coming Back
+sh005,903,2013-09-30,Last Time in New York
+sh005,904,2013-10-07,The Broken Code
+sh005,905,2013-10-14,The Poker Game
+sh005,906,2013-10-21,Knight Vision
+sh005,907,2013-10-28,No Questions Asked
+sh005,908,2013-11-04,The Lighthouse
+sh005,909,2013-11-11,Platonish
+sh005,910,2013-11-18,Mom and Dad
+sh005,911,2013-11-25,Bedtime Stories
+sh005,912,2013-12-02,The Rehearsal Dinner
+sh005,913,2013-12-16,Bass Player Wanted
+sh005,914,2014-01-13,Slapsgiving 3: Slappointment in Slapmarra
+sh005,915,2014-01-20,Unpause
+sh005,916,2014-01-27,How Your Mother Met Me
+sh005,917,2014-02-03,Rally
+sh005,918,2014-02-24,Sunrise
+sh006,101,2004-09-22,Pilot (1)
+sh006,102,2004-09-29,Pilot (2)
+sh006,103,2004-10-06,Tabula Rasa
+sh006,104,2004-10-13,Walkabout
+sh006,105,2004-10-20,White Rabbit
+sh006,106,2004-10-27,House of the Rising Sun
+sh006,107,2004-11-03,The Moth
+sh006,108,2004-11-10,Confidence Man
+sh006,109,2004-11-17,Solitary
+sh006,110,2004-12-01,Raised by Another
+sh006,111,2004-12-08,All the Best Cowboys Have Daddy Issues
+sh006,112,2005-01-05,Whatever the Case May Be
+sh006,113,2005-01-12,Hearts and Minds
+sh006,114,2005-01-19,Special
+sh006,115,2005-02-09,Homecoming
+sh006,116,2005-02-16,Outlaws
+sh006,117,2005-02-23,...In Translation
+sh006,118,2005-03-02,Numbers
+sh006,119,2005-03-30,Deus ex Machina
+sh006,120,2005-04-06,Do No Harm
+sh006,121,2005-05-04,The Greater Good
+sh006,122,2005-05-11,Born to Run
+sh006,123,2005-05-18,Exodus (1)
+sh006,124,2005-05-25,Exodus (2)
+sh006,125,2005-05-25,Exodus (3)
+sh006,201,2005-09-21,Man Of Science Man of Faith
+sh006,202,2005-09-28,Adrift
+sh006,203,2005-10-05,Orientation
+sh006,204,2005-10-12,Everybody Hates Hugo
+sh006,205,2005-10-19,...And Found
+sh006,206,2005-11-09,Abandoned
+sh006,207,2005-11-16,The Other 48 Days
+sh006,208,2005-11-23,Collision
+sh006,209,2005-11-30,What Kate Did
+sh006,210,2006-01-11,The 23rd Psalm
+sh006,211,2006-01-18,The Hunting Party
+sh006,212,2006-01-25,Fire + Water
+sh006,213,2006-02-08,The Long Con
+sh006,214,2006-02-15,One Of Them
+sh006,215,2006-03-01,Maternity Leave
+sh006,216,2006-03-22,The Whole Truth
+sh006,217,2006-03-29,Lockdown
+sh006,218,2006-04-05,Dave
+sh006,219,2006-04-12,S.O.S.
+sh006,220,2006-05-03,Two For The Road
+sh006,221,2006-05-10,?
+sh006,222,2006-05-17,Three Minutes
+sh006,223,2006-05-24,Live Together Die Alone(1)
+sh006,224,2006-05-24,Live Together Die Alone(2)
+sh006,300,2006-09-27,A Tale of Survival
+sh006,301,2006-10-04,A Tale of Two Cities
+sh006,302,2006-10-11,The Glass Ballerina
+sh006,303,2006-10-18,Further Instructions
+sh006,304,2006-10-25,Every Man For Himself
+sh006,305,2006-11-01,The Cost Of Living
+sh006,306,2006-11-08,I Do
+sh006,307,2007-02-07,Not In Portland
+sh006,308,2007-02-14,Flashes Before Your Eyes
+sh006,309,2007-02-21,Stranger In A Strange Land
+sh006,310,2007-02-28,Tricia Tanaka Is Dead
+sh006,311,2007-03-07,Enter 77
+sh006,312,2007-03-14,Par Avion
+sh006,313,2007-03-21,The Man From Tallahassee
+sh006,314,2007-03-28,Expose
+sh006,315,2007-04-04,Left Behind
+sh006,316,2007-04-11,One of Us
+sh006,317,2007-04-18,Catch-22
+sh006,318,2007-04-25,D.O.C.
+sh006,319,2007-05-02,The Brig
+sh006,320,2007-05-09,The Man Behind The Curtain
+sh006,321,2007-05-16,Greatest Hits
+sh006,322,2007-05-23,Through The Looking Glass (1)
+sh006,323,2007-05-23,Through The Looking Glass (2)
+sh006,401,2008-01-31,The Beginning of the End
+sh006,402,2008-02-07,Confirmed Dead
+sh006,403,2008-02-14,The Economist
+sh006,404,2008-02-21,Eggtown
+sh006,405,2008-02-28,The Constant
+sh006,406,2008-03-06,The Other Woman
+sh006,407,2008-03-13,Ji Yeon
+sh006,408,2008-03-20,Meet Kevin Johnson
+sh006,409,2008-04-24,The Shape of Things to Come
+sh006,410,2008-05-01,Something Nice Back Home
+sh006,411,2008-05-08,Cabin Fever
+sh006,412,2008-05-15,There's No Place Like Home (1)
+sh006,413,2008-05-29,There's No Place Like Home (2)
+sh006,414,2008-05-29,There's No Place Like Home (3)
+sh006,501,2009-01-21,Because You Left
+sh006,502,2009-01-21,The Lie
+sh006,503,2009-01-28,Jughead
+sh006,504,2009-02-04,The Little Prince
+sh006,505,2009-02-11,This Place Is Death
+sh006,506,2009-02-18,316
+sh006,507,2009-02-25,The Life and Death of Jeremy Bentham
+sh006,508,2009-03-04,LaFleur
+sh006,509,2009-03-18,Namaste
+sh006,510,2009-03-25,He's Our You
+sh006,511,2009-04-01,Whatever Happened Happened
+sh006,512,2009-04-08,Dead is Dead
+sh006,513,2009-04-15,Some Like It Hoth
+sh006,514,2009-04-29,The Variable
+sh006,515,2009-05-06,Follow the Leader
+sh006,516,2009-05-13,The Incident (1)
+sh006,517,2009-05-13,The Incident (2)
+sh006,518,2009-05-13,A Journey in Time
+sh006,600,2010-02-02,Final Chapter
+sh006,601,2010-02-02,LA X (1)
+sh006,602,2010-02-02,LA X (2)
+sh006,603,2010-02-09,What Kate Does
+sh006,604,2010-02-16,The Substitute
+sh006,605,2010-02-23,Lighthouse
+sh006,606,2010-03-02,Sundown
+sh006,607,2010-03-09,Dr. Linus
+sh006,608,2010-03-16,Recon
+sh006,609,2010-03-23,Ab Aeterno
+sh006,610,2010-03-30,The Package
+sh006,611,2010-04-06,Happily Ever After
+sh006,612,2010-04-13,Everybody Loves Hugo
+sh006,613,2010-04-20,The Last Recruit
+sh006,614,2010-05-04,The Candidate
+sh006,615,2010-05-11,Across the Sea
+sh006,616,2010-05-18,What They Died For
+sh006,617,2010-05-23,The End (1)
+sh006,618,2010-05-23,The End (2)
+sh006,619,2010-05-23,The Final Journey
+sh007,100,2007-06-03,The Making of Mad Men
+sh007,101,2007-07-19,Smoke Gets in Your Eyes
+sh007,102,2007-07-26,Ladies Room
+sh007,103,2007-08-02,Marriage of Figaro
+sh007,104,2007-08-09,New Amsterdam
+sh007,105,2007-08-16,Five G
+sh007,106,2007-08-23,Babylon
+sh007,107,2007-08-30,Red in the Face
+sh007,108,2007-09-06,The Hobo Code
+sh007,109,2007-09-13,Shoot
+sh007,110,2007-09-27,Long Weekend
+sh007,111,2007-10-04,Indian Summer
+sh007,112,2007-10-11,Nixon vs. Kennedy
+sh007,113,2007-10-18,The Wheel
+sh007,201,2008-07-27,For Those Who Think Young
+sh007,202,2008-08-03,Flight 1
+sh007,203,2008-08-10,The Benefactor
+sh007,204,2008-08-17,Three Sundays
+sh007,205,2008-08-24,The New Girl
+sh007,206,2008-08-31,Maidenform
+sh007,207,2008-09-07,The Gold Violin
+sh007,208,2008-09-14,A Night to Remember
+sh007,209,2008-09-28,Six Month Leave
+sh007,210,2008-10-05,The Inheritance
+sh007,211,2008-10-12,The Jet Set
+sh007,212,2008-10-19,The Mountain King
+sh007,213,2008-10-26,Meditations in an Emergency
+sh007,301,2009-08-16,Out of Town
+sh007,302,2009-08-23,Love Among the Ruins
+sh007,303,2009-08-30,My Old Kentucky Home
+sh007,304,2009-09-06,The Arrangements
+sh007,305,2009-09-13,The Fog
+sh007,306,2009-09-20,Guy Walks Into an Advertising Agency
+sh007,307,2009-09-27,Seven Twenty Three
+sh007,308,2009-10-04,Souvenir
+sh007,309,2009-10-11,Wee Small Hours
+sh007,310,2009-10-18,The Color Blue
+sh007,311,2009-10-25,The Gypsy and the Hobo
+sh007,312,2009-11-01,The Grown-Ups
+sh007,313,2009-11-08,Shut the Door. Have a Seat
+sh007,401,2010-07-25,Public Relations
+sh007,402,2010-08-01,Christmas Comes But Once a Year
+sh007,403,2010-08-08,The Good News
+sh007,404,2010-08-15,The Rejected
+sh007,405,2010-08-22,The Chrysanthemum and the Sword
+sh007,406,2010-08-29,Waldorf Stories
+sh007,407,2010-09-05,The Suitcase
+sh007,408,2010-09-12,The Summer Man
+sh007,409,2010-09-19,The Beautiful Girls
+sh007,410,2010-09-26,Hands and Knees
+sh007,411,2010-10-03,Chinese Wall
+sh007,412,2010-10-10,Blowing Smoke
+sh007,413,2010-10-17,Tomorrowland
+sh007,501,2012-03-25,A Little Kiss (1)
+sh007,502,2012-03-25,A Little Kiss (2)
+sh007,503,2012-04-01,Tea Leaves
+sh007,504,2012-04-08,Mystery Date
+sh007,505,2012-04-15,Signal 30
+sh007,506,2012-04-22,Far Away Places
+sh007,507,2012-04-29,At the Codfish Ball
+sh007,508,2012-05-06,Lady Lazarus
+sh007,509,2012-05-13,Dark Shadows
+sh007,510,2012-05-20,Christmas Waltz
+sh007,511,2012-05-27,The Other Woman
+sh007,512,2012-06-03,Commissions and Fees
+sh007,513,2012-06-10,The Phantom
+sh007,601,2013-04-07,The Doorway Part 1
+sh007,602,2013-04-07,The Doorway Part 2
+sh007,603,2013-04-14,The Collaborators
+sh007,604,2013-04-21,To Have and to Hold
+sh007,605,2013-04-28,The Flood
+sh007,606,2013-05-05,For Immediate Release
+sh007,607,2013-05-12,Man With a Plan
+sh007,608,2013-05-19,The Crash
+sh007,609,2013-05-26,The Better Half
+sh007,610,2013-06-02,A Tale of Two Cities
+sh007,611,2013-06-09,Favors
+sh007,612,2013-06-16,The Quality of Mercy
+sh007,613,2013-06-23,In Care Of
+sh008,101,2009-04-09,Pilot
+sh008,102,2009-04-16,Canvassing
+sh008,103,2009-04-23,The Reporter
+sh008,104,2009-04-30,Boys' Club
+sh008,105,2009-05-07,The Banquet
+sh008,106,2009-05-14,Rock Show
+sh008,201,2009-09-17,Pawnee Zoo
+sh008,202,2009-09-24,The Stakeout
+sh008,203,2009-10-01,Beauty Pageant
+sh008,204,2009-10-08,Practice Date
+sh008,205,2009-10-15,Sister City
+sh008,206,2009-10-22,Kaboom
+sh008,207,2009-10-29,Greg Pikitis
+sh008,208,2009-11-05,Ron and Tammy
+sh008,209,2009-11-12,The Camel
+sh008,210,2009-11-19,Hunting Trip
+sh008,211,2009-12-03,Tom's Divorce
+sh008,212,2009-12-10,Christmas Scandal
+sh008,213,2010-01-14,The Set Up
+sh008,214,2010-01-21,Leslie's House
+sh008,215,2010-02-04,Sweetums
+sh008,216,2010-02-11,Galentine's Day
+sh008,217,2010-03-04,Woman of the Year
+sh008,218,2010-03-11,The Possum
+sh008,219,2010-03-18,Park Safety
+sh008,220,2010-03-25,Summer Catalog
+sh008,221,2010-04-29,94 Meetings
+sh008,222,2010-05-06,Telethon
+sh008,223,2010-05-13,The Master Plan
+sh008,224,2010-05-20,Freddy Spaghetti
+sh008,301,2011-01-20,Go Big or Go Home
+sh008,302,2011-01-27,Flu Season
+sh008,303,2011-02-03,Time Capsule
+sh008,304,2011-02-10,Ron & Tammy: Part Two
+sh008,305,2011-02-17,Media Blitz
+sh008,306,2011-02-24,Indianapolis
+sh008,307,2011-03-17,Harvest Festival
+sh008,308,2011-03-24,Camping
+sh008,309,2011-04-14,Fancy Party
+sh008,310,2011-04-21,Soulmates
+sh008,311,2011-04-28,Jerry's Painting
+sh008,312,2011-05-05,Eagleton
+sh008,313,2011-05-12,The Fight
+sh008,314,2011-05-12,Road Trip
+sh008,315,2011-05-19,The Bubble
+sh008,316,2011-05-19,Li'l Sebastian
+sh008,401,2011-09-22,I'm Leslie Knope
+sh008,402,2011-09-29,Ron & Tammys
+sh008,403,2011-10-06,Born & Raised
+sh008,404,2011-10-13,Pawnee Rangers
+sh008,405,2011-10-27,Meet n Greet
+sh008,406,2011-11-03,End of the World
+sh008,407,2011-11-10,The Treaty
+sh008,408,2011-11-17,Smallest Park
+sh008,409,2011-12-01,The Trial Of Leslie Knope
+sh008,410,2011-12-08,Citizen Knope
+sh008,411,2012-01-12,The Comeback Kid
+sh008,412,2012-01-19,Campaign Ad
+sh008,413,2012-01-26,Bowling For Votes
+sh008,414,2012-02-02,Operation Ann
+sh008,415,2012-02-16,Dave Returns
+sh008,416,2012-02-23,Sweet Sixteen
+sh008,417,2012-03-01,Campaign Shake-Up
+sh008,418,2012-03-08,Lucky
+sh008,419,2012-04-19,Live Ammo
+sh008,420,2012-04-26,The Debate
+sh008,421,2012-05-03,Bus Tour
+sh008,422,2012-05-10,Win Lose or Draw
+sh008,501,2012-09-20,Ms. Knope Goes To Washington
+sh008,502,2012-09-27,Soda Tax
+sh008,503,2012-10-04,How a Bill Becomes a Law
+sh008,504,2012-10-18,Sex Education
+sh008,505,2012-10-25,Halloween Surprise
+sh008,506,2012-11-08,Ben's Parents
+sh008,507,2012-11-15,Leslie vs April
+sh008,508,2012-11-29,Pawnee Commons
+sh008,509,2012-12-06,Ron and Diane
+sh008,510,2013-01-17,Two Parties
+sh008,511,2013-01-24,Women In Garbage
+sh008,512,2013-02-07,Ann's Decision
+sh008,513,2013-02-14,Emergency Response
+sh008,514,2013-02-21,Leslie and Ben
+sh008,515,2013-02-21,Correspondents' Lunch
+sh008,516,2013-03-14,Bailout
+sh008,517,2013-04-04,Partridge
+sh008,518,2013-04-11,Animal Control
+sh008,519,2013-04-18,Article Two
+sh008,520,2013-04-18,Jerry's Retirement
+sh008,521,2013-04-25,Swing Vote
+sh008,522,2013-05-02,Are You Better Off?
+sh009,101,2010-03-02,Pilot
+sh009,102,2010-03-09,Man Versus Possum
+sh009,103,2010-03-16,The Deep End of the Pool
+sh009,104,2010-03-23,Wassup
+sh009,105,2010-03-30,The Situation
+sh009,106,2010-04-06,The Big O
+sh009,107,2010-04-13,What's Goin' On Down There?
+sh009,108,2010-04-20,Rubber Band Ball
+sh009,109,2010-04-27,Perchance to Dream
+sh009,110,2010-05-04,Namaste No More
+sh009,111,2010-05-11,Solace
+sh009,112,2010-05-18,Team Braverman
+sh009,113,2010-05-25,Lost and Found
+sh009,201,2010-09-14,I Hear You I See You
+sh009,202,2010-09-21,No Good Deed
+sh009,203,2010-09-28,I'm Cooler than You Think
+sh009,204,2010-10-05,Date Night
+sh009,205,2010-10-12,The Booth Job
+sh009,206,2010-10-19,Orange Alert
+sh009,207,2010-10-26,Seven Names
+sh009,208,2010-11-09,If This Boat Is A Rockin'
+sh009,209,2010-11-16,Put Yourself Out There
+sh009,210,2010-11-23,Happy Thanksgiving
+sh009,211,2011-01-04,Damage Control
+sh009,212,2011-01-11,Meet the New Boss
+sh009,213,2011-01-18,Opening Night
+sh009,214,2011-02-01,A House Divided
+sh009,215,2011-02-08,Just Go Home
+sh009,216,2011-02-15,Amazing Andy And His Wonderful World Of Bugs
+sh009,217,2011-02-22,Do Not Sleep With Your Autistic Nephew's Therapist
+sh009,218,2011-03-01,Qualities And Difficulties
+sh009,219,2011-03-29,Taking The Leap
+sh009,220,2011-04-05,New Plan
+sh009,221,2011-04-12,Slipping Away
+sh009,222,2011-04-19,Hard Times Come Again No More
+sh009,301,2011-09-13,I Don't Want to Do This Without You
+sh009,302,2011-09-20,Hey If You're Not Using That Baby
+sh009,303,2011-09-27,Step Right Up
+sh009,304,2011-10-04,Clear Skies from Here on Out
+sh009,305,2011-10-11,Nora
+sh009,306,2011-10-18,Tales from The Luncheonette
+sh009,307,2011-11-01,Forced Family Fun
+sh009,308,2011-11-08,In-Between
+sh009,309,2011-11-15,Sore Loser
+sh009,310,2011-11-22,Mr. Honesty
+sh009,311,2011-11-29,Missing
+sh009,312,2012-01-03,Road Trip
+sh009,313,2012-01-10,Just Smile
+sh009,314,2012-01-17,It Is What It Is
+sh009,315,2012-02-07,Politics
+sh009,316,2012-02-14,Tough Love
+sh009,317,2012-02-21,Remember Me  I'm The One Who Loves You
+sh009,318,2012-02-28,My Brother's Wedding
+sh009,401,2012-09-11,Family Portrait
+sh009,402,2012-09-18,Left Field
+sh009,403,2012-09-25,Everything Is Not Okay
+sh009,404,2012-10-02,The Talk
+sh009,405,2012-10-09,There's Something I Need To Tell You
+sh009,406,2012-10-23,I'll Be Right Here
+sh009,407,2012-11-13,Together
+sh009,408,2012-11-20,One More Weekend With You
+sh009,409,2012-11-27,You Can't Always Get What You Want
+sh009,410,2012-12-04,Trouble in Candyland
+sh009,411,2012-12-11,What To My Wondering Eyes
+sh009,412,2013-01-01,Keep on Rowing
+sh009,413,2013-01-08,Small Victories
+sh009,414,2013-01-15,One Step Forward  Two Steps Back
+sh009,415,2013-01-22,Because You're My Sister

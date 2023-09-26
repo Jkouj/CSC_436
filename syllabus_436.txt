@@ -1,0 +1,172 @@
+Joey Koumjian
+1/25/23
+CSC 436
+
+SPRING 2023
+Instructor:
+
+Daniel Gauthier (daniel_gauthier@uri.edu)
+
+Office Hours:
+
+T/TH : 5 PM - 6 PM:
+(Schedule Google Appointment in the Help Hours Calendar)
+
+Teaching Assistants:
+
+Maryam Kafi Kang           (csc436ta@etal.uri.edu) 
+
+Liam Cannon                       (csc436ta@etal.uri.edu)
+
+(Schedule Google Appointment in the Help Hours Calendar)
+
+Class Days/Time:
+
+Lecture: Released Weekly Monday Morning
+
+Project: We 11:00AM - 11:50AM
+
+Course Web Site:
+
+brightspace.uri.edu
+(readings, lectures, discussions)
+
+https://www.gradescope.com/
+(assignments, exams, projects)
+
+Course Textbook:
+Fundamentals of Database Systems, El Masri & Navathe, Addison-Wesley, 7th Edition, 2016. (Available in hardcover and eBook).
+
+Course Description:
+This course gives students an introduction to database management systems. The material in the course covers the underlying structures necessary for building databases, several database models and languages, database design strategy, and management of queries and transactions.
+
+Students are expected to attend and participate in project sessions. Please inform me if you will be unable to attend a required class meeting.
+
+Course Goals:
+To introduce students to database management concepts. 
+To provide students with practice in the development of database applications.
+To give students hands-on database experience in the classroom and lab sessions.
+ 
+Learning Outcomes: 
+After completing this course, a successful student will be able to:
+
+Define key terms and concepts of database management systems.
+Design a model of a database.
+Implement a database using commercially available database software.
+Query a database using the standard SQL query language.
+Implement web-based access to a back-end database using current web tools and languages.
+Develop secure database applications.
+Apply various transaction management techniques for a multi-user database.
+Course Web Site:
+Students are expected to access the online materials and be prepared to ask questions and work through exercises in the lab. All lecture material will be available on the Brightspace website. The material for each week will be released on the site in a clear and consistent manner so that students can anticipate when and where to find information and content.
+
+Reading Assignments (See "Content" on the Brightspace site):
+Weekly online materials should be read/viewed as early in the week as possible. Reading the weekly PowerPoints and viewing the videos of the assigned chapters gives you an idea of the concepts that are the focus of the week. This should be done before lab.
+
+Exercises in projects help to explain the concepts in greater depth and give you experience applying them to actual problems. 
+
+The video lectures for this course present the material in a form different from the readings so that you can better understand the concepts in each section. There are PowerPoint presentations to accompany each video. Each week, there will be approximately 60 minutes of video lectures to view. These emphasize important concepts and give examples similar to what you would see in a classroom lecture.
+ 
+
+Project Class (Lab) Exercises:
+Exercises in the project class sessions allow students to learn content and practice skills that are discussed in the readings, video lectures, and class. We will work on these exercises in groups. Due dates will be announced for each practice session assignment.
+
+ 
+Semester Project:
+The Semester Project is made up of two parts:  an Entity-Relationship Model and an SQL implementation.  The project will involve designing and implementing a database that stores information about television shows, episodes of the shows, and customers who download and watch the shows.
+
+
+Attendance:
+Students are expected to attend all labs. Please let me know if you cannot attend on a given day with a reason/rationale. You will be graded for your participation and attendance.  
+
+COVID-19 Statement:
+The University is committed to delivering its educational mission while protecting the health and safety of our students. At this uncertain time, those concerns include minimizing the potential spread of COVID-19 within our community. While the university has worked this summer to create a healthy learning environment for all, it is up to all of us to ensure our campus stays that way.
+
+
+As members of the URI community, students are required to comply with standards of conduct and take precautions to keep themselves and others safe. Students are required to comply with Rhode Island state laws, including the Rhode Island Executive Orders related to health and safety, ordinances, regulations, and guidance adopted by the University as it relates to public health crises, such as COVID-19.
+
+
+If you are already on campus and start to feel ill, you need to remove yourself from the public and notify URI Health Services via phone immediately at 401-874-2246 and go home/back to your room and self-isolate while you await direction from Health Services.
+
+If you are unable to attend class, daniel_gauthier@uri.edu or through the medium we
+have established for the class. We will work together to ensure that course instruction and work are completed for the semester.
+
+Academic Integrity
+All individual submitted work must be your own unless properly cited. Research papers and projects should rely exclusively on your own work. If you are found to be in violation of these guidelines, you will fail the assignment. In some cases, this may result in a failure of the course as well.
+
+In addition, the charge of academic dishonesty will go on your record in the Office of Student Life and in the dean’s office.
+
+If you ever have a question about what is acceptable when working on a programming assignment, please contact your instructor. If you have any doubt about what constitutes plagiarism, visit the following websites: the URI Student Handbook, and Sections 8.27.10 – 8.27.21 of the University Manual (web.uri.edu/manual/).
+
+Anti-Bias
+We respect the rights and dignity of each individual and group. We reject prejudice and intolerance, and we work to understand differences. We believe that equity and inclusion are critical components for campus community members to thrive. If you are a target or a witness of a bias incident, you are encouraged to submit a report to the URI Bias Response Team at www.uri.edu/brt. There you will also find people and resources to help.
+
+
+Preferred Name & Preferred Gender Pronouns
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters are provided to the instructor with the student’s legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
+
+Exams
+There will be a midterm, covering half of the material in the course. Students are expected to complete the work on their own.  You are not permitted to discuss the exam with other students.  If you use sources outside the course materials, you must cite those sources appropriately. There will also be an in-person final exam covering the second half of the material in the course. The final will also allow for the use of outside sources excluding search engines. 
+
+ 
+Grading Policy: 
+All assignments are to be handed in on time.  No late submissions will be accepted unless permission is granted in advance. 
+
+You can receive an automatic 24-hour extension (Labeled "Late Due Date" on Gradescope), no questions asked, for all homework assignments (excluding labs and exams), if and only if, you email me (daniel_gauthier@uri.edu) the request before noon the day an assignment is due. 
+
+    
+
+Grade Calculation	
+Project Class Excercise, Homework	30%
+Semester Projects:
+
+- Stream TV
+
+- Group Project
+
+35 %
+Disccussions, Participation, Attendance	5 %
+Midterm	15 %
+Final	15 %
+A	94-100
+A-	90-93
+B+	87-89
+B	83-86
+B-	80-82
+C+	77-79
+C	73-76
+C-	70-72
+D	60-69
+F	0-59
+
+
+
+Course Topics and Tentative Schedule:
+Week of    	Topic	Chapters
+1/23	Introduction to Database Systems  	1, 2
+1/30	Data Modeling	3, 4
+2/6
+2/13	Relational Data Model	5
+8.1-8.5, 9
+2/20	SQL	6, 7
+2/27	Database Design Theory	14
+3/6	Midterm 	1-9, 14
+3/6	Web Databases	
+3/13	Spring Break	
+3/20	Database Security	30
+3/27	Disk Storage	16
+4/3	Query Optimization	18, 19
+4/10	Transaction Management	20, 21
+4/17	NoSQL	24
+4/24	FINAL PROJECT 	16 - 21, 24, 30    
+TBA
+(MAY 4-10)	FINAL EXAM	16 - 21, 24, 30    
+Important Dates:
+Individual Stream TV Project - Entity-Relationship Design
+Due FEB 27 at 11:00 PM
+Individual Stream TV Project - SQL Project
+Due MAR 27 at 11:00 PM
+Group Project - Proposal
+Due APR 3 at 11:00 PM
+Group Project - Final Project
+Due MAY 1 at 11:00 PM

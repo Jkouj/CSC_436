@@ -1,0 +1,115 @@
+sh001,act128,Liz Lemon
+sh001,act014,Jack Donaghy
+sh001,act293,Tracy Jordan
+sh001,act225,Jenna Maroney
+sh001,act002,Pete Hornberger
+sh001,act271,Kenneth Parcell
+sh001,act035,Cerie
+sh001,act139,Frank
+sh001,act341,Toofer
+sh001,act256,Lutz
+sh001,act046,Dot Com
+sh001,act072,Grizz
+sh002,act019,Michael Bluth
+sh002,act101,Lindsay Bluth Funke
+sh002,act068,George-Michael Bluth
+sh002,act400,Maeby Funke
+sh002,act165,Buster Bluth
+sh002,act090,Tobias Funke
+sh002,act436,George Bluth Sr.
+sh002,act466,Lucille Bluth
+sh002,act191,Narrator
+sh003,act276,Jeff Winger
+sh003,act198,Britta Perry
+sh003,act344,Abed Nadir
+sh003,act048,Shirley Bennett
+sh003,act041,Annie Edison
+sh003,act201,Senor Chang
+sh003,act149,Troy Barnes
+sh003,act075,Pierce Hawthorne
+sh003,act353,Dean Pelton
+sh004,act071,Eric Taylor
+sh004,act043,Tami Taylor
+sh004,act442,Julie Taylor
+sh004,act241,Buddy Garrity
+sh004,act220,Tim Riggins
+sh004,act337,Landry Clarke
+sh004,act143,Matt Saracen
+sh004,act332,Billy Riggins
+sh004,act216,Lyla Garrity
+sh004,act322,Tyra Collette
+sh004,act427,Grandma Saracen
+sh004,act319,Mindy Collette
+sh004,act339,Jason Street
+sh004,act074,Brian Smash Williams
+sh004,act205,Vince Howard
+sh004,act414,Jess Merriweather
+sh004,act234,Luke Cafferty
+sh004,act052,Becky Sproles
+sh005,act346,Ted Mosby
+sh005,act394,Marshall Eriksen
+sh005,act415,Robin Scherbatsky
+sh005,act171,Barney Stinson
+sh005,act170,Lily Aldrin
+sh006,act137,Jack Shephard
+sh006,act141,Hugo Hurley Reyes
+sh006,act008,Sayid Jarrah
+sh006,act187,James Sawyer Ford
+sh006,act218,Jin Kwon
+sh006,act219,Sun Kwon
+sh006,act246,Kate Austen
+sh006,act313,John Locke
+sh006,act100,Claire Littleton
+sh006,act120,Ben Linus
+sh006,act093,Desmond Hume
+sh006,act289,Charlie Pace
+sh006,act330,Michael Dawson
+sh006,act287,Juliet Burke
+sh006,act154,Shannon Rutherford
+sh006,act214,Walt Lloyd
+sh006,act097,Daniel Faraday
+sh006,act243,Miles Straume
+sh006,act417,Boone Carlyle
+sh006,act365,Ana Lucia Cortez
+sh006,act003,Mr. Eko
+sh006,act061,Rose Nadler
+sh007,act168,Don Draper
+sh007,act299,Peggy Olson
+sh007,act212,Pete Campbell
+sh007,act202,Betty Draper
+sh007,act180,Joan Harris
+sh007,act425,Ken Cosgrove
+sh007,act418,Harry Crane
+sh007,act410,Roger Sterling
+sh007,act404,Sally Draper
+sh007,act295,Bertram Cooper
+sh007,act147,Paul Kinsey
+sh007,act326,Megan Draper
+sh007,act126,Michael Ginsberg
+sh008,act338,Leslie Knope
+sh008,act204,Ann Perkins
+sh008,act009,Tom Haverford
+sh008,act315,Ron Swanson
+sh008,act336,April Ludgate
+sh008,act342,Andy Dwyer
+sh008,act311,Jerry Gergich
+sh008,act109,Donna Meagle
+sh008,act393,Ben Wyatt
+sh008,act252,Chris Traeger
+sh008,act390,Mark Brendanawicz
+sh009,act227,Adam Braverman
+sh009,act155,Sarah Braverman
+sh009,act402,Crosby Braverman
+sh009,act340,Kristina Braverman
+sh009,act079,Julia Braverman-Graham
+sh009,act199,Joel Graham
+sh009,act348,Sydney Graham
+sh009,act053,Max Braverman
+sh009,act049,Jasmine Trussell
+sh009,act178,Drew Holt
+sh009,act475,Amber Holt
+sh009,act022,Camille Braverman
+sh009,act304,Zeek Braverman
+sh009,act047,Jabbar Trussell
+sh009,act351,Haddie Braverman
+sh009,act266,Victor Graham
